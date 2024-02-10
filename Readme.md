@@ -13,7 +13,7 @@ brew install neovim
 ## Setting theme
 
 ```sh
-git clone https://github.com/Arun89-crypto/Neovim_Lua.git
+git clone https://github.com/ocdbytes/Neovim_Lua.git
 
 rm -rf ~/.config/nvim
 
